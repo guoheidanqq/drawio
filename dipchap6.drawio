@@ -4,17 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L18wpkcEqc1n5fC02A_w-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="L18wpkcEqc1n5fC02A_w-1" target="L18wpkcEqc1n5fC02A_w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-1" value="6 Color Image Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1152" y="20" width="237" height="54" as="geometry" />
         </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-2" value="6.1 Color Fundamentals" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="929.9992666636253" y="-125.99967444812049" width="230" height="54" as="geometry" />
+          <mxGeometry x="909.9992666636253" y="-135.9996744481205" width="230" height="54" as="geometry" />
         </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-3" value="6.2 Color Models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="900.0033360079044" y="-28.000137418931686" width="179" height="54" as="geometry" />
         </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-4" value="6.3 Pseudocolor Image Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850.0010095266226" y="120.00370828650617" width="260" height="78" as="geometry" />
+          <mxGeometry x="870.0010095266226" y="110.00370828650617" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-5" value="6.4 Basics of Full-Color Image Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1090.0016516967783" y="219.99935495891822" width="260" height="78" as="geometry" />
@@ -34,18 +37,19 @@
         <mxCell id="L18wpkcEqc1n5fC02A_w-10" value="6.9 Color Image Compression" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1320.007690971788" y="-149.99987820966388" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="L18wpkcEqc1n5fC02A_w-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="L18wpkcEqc1n5fC02A_w-1" target="L18wpkcEqc1n5fC02A_w-2">
+        <mxCell id="L18wpkcEqc1n5fC02A_w-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L18wpkcEqc1n5fC02A_w-1" target="L18wpkcEqc1n5fC02A_w-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1280" y="-200" />
+              <mxPoint x="1130" y="-70" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L18wpkcEqc1n5fC02A_w-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="L18wpkcEqc1n5fC02A_w-1" target="L18wpkcEqc1n5fC02A_w-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="L18wpkcEqc1n5fC02A_w-1" target="L18wpkcEqc1n5fC02A_w-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="L18wpkcEqc1n5fC02A_w-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="L18wpkcEqc1n5fC02A_w-1" target="L18wpkcEqc1n5fC02A_w-5">
           <mxGeometry relative="1" as="geometry">
