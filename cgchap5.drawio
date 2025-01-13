@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="P6oE3eHlunth_Cps90Zg">
-    <mxGraphModel>
+    <mxGraphModel dx="1137" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-1" value="5 Shading Basics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="393.57" y="335.89" width="176" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-2" value="5.1 Shading Models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23.999803838867592" y="299.9958252831206" width="196" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-3" value="5.2 Light Sources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="31.004664644425702" y="393.9981008076368" width="182" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-4" value="5.3 Implementing Shading Models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180.004564812588" y="459.99944226260516" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-5" value="5.4 Aliasing and Antialiasing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="489.99692574796404" y="483.9979204139814" width="259" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-6" value="5.5 Transparency, Alpha, and Compositing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680.0007810406162" y="393.9974091058948" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-7" value="5.6 Display Encoding" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="709.9954458003331" y="299.99798771513116" width="207" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-8" value="103" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ncvu-YhFZeXpfPbW1BOa-1" target="Ncvu-YhFZeXpfPbW1BOa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-9" value="106" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ncvu-YhFZeXpfPbW1BOa-1" target="Ncvu-YhFZeXpfPbW1BOa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-10" value="117" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ncvu-YhFZeXpfPbW1BOa-1" target="Ncvu-YhFZeXpfPbW1BOa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-11" value="130" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ncvu-YhFZeXpfPbW1BOa-1" target="Ncvu-YhFZeXpfPbW1BOa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-12" value="148" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ncvu-YhFZeXpfPbW1BOa-1" target="Ncvu-YhFZeXpfPbW1BOa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncvu-YhFZeXpfPbW1BOa-13" value="160" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Ncvu-YhFZeXpfPbW1BOa-1" target="Ncvu-YhFZeXpfPbW1BOa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
