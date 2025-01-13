@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="syH2UWJGvl_GmndujwGW">
-    <mxGraphModel>
+    <mxGraphModel dx="987" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-3" value="4 Filtering in the Frequency Domain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="230" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-4" value="Background" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1089.9996589547113" y="241.99938766165775" width="143" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-5" value="Preliminary Concepts" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1046.7273565623316" y="339.9992717302204" width="212" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-6" value="Sampling and the Fourier Transform of Sampled Functions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1049.9969703685388" y="70.00357619371482" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-7" value="The Discrete Fourier Transform of One Variable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1219.9986552057699" y="549.999788448747" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-8" value="Extensions to Functions of Two Variables" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1046.7240017003737" y="440.0007234969983" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-9" value="Some Properties of the 2-D DFT and IDFT" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1399.9978189635817" y="459.9952301802664" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-10" value="The Basics of Filtering in the Frequency Domain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1399.9967309616318" y="60.00181974641845" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-11" value="Image Smoothing Using Lowpass Frequency Domain Filters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1700.0015863371375" y="410.00100866055647" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-12" value="Image Sharpening Using Highpass Filters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1699.9970869826898" y="100.00411411133325" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-13" value="Selective Filtering" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1769.9998486374" y="189.99845359769955" width="190" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-14" value="The Fast Fourier Transform" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1760.0016973117517" y="286.0010154016294" width="253" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBfY5L2_PUwbSFdp8kNL-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OBfY5L2_PUwbSFdp8kNL-3" target="OBfY5L2_PUwbSFdp8kNL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
